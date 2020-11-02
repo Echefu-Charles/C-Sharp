@@ -1,0 +1,6 @@
+c:\users\charlie\source\repos\C_sharp_question3\C_sharp_question3\bin\Debug\C_sharp_question3.exe.config
+c:\users\charlie\source\repos\C_sharp_question3\C_sharp_question3\bin\Debug\C_sharp_question3.exe
+c:\users\charlie\source\repos\C_sharp_question3\C_sharp_question3\bin\Debug\C_sharp_question3.pdb
+c:\users\charlie\source\repos\C_sharp_question3\C_sharp_question3\obj\Debug\C_sharp_question3.csproj.CoreCompileInputs.cache
+c:\users\charlie\source\repos\C_sharp_question3\C_sharp_question3\obj\Debug\C_sharp_question3.exe
+c:\users\charlie\source\repos\C_sharp_question3\C_sharp_question3\obj\Debug\C_sharp_question3.pdb

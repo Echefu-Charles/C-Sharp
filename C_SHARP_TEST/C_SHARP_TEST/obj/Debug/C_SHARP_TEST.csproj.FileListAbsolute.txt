@@ -1,0 +1,7 @@
+c:\users\charlie\source\repos\C_SHARP_TEST\C_SHARP_TEST\bin\Debug\C_SHARP_TEST.exe.config
+c:\users\charlie\source\repos\C_SHARP_TEST\C_SHARP_TEST\bin\Debug\C_SHARP_TEST.exe
+c:\users\charlie\source\repos\C_SHARP_TEST\C_SHARP_TEST\bin\Debug\C_SHARP_TEST.pdb
+c:\users\charlie\source\repos\C_SHARP_TEST\C_SHARP_TEST\obj\Debug\C_SHARP_TEST.csprojAssemblyReference.cache
+c:\users\charlie\source\repos\C_SHARP_TEST\C_SHARP_TEST\obj\Debug\C_SHARP_TEST.csproj.CoreCompileInputs.cache
+c:\users\charlie\source\repos\C_SHARP_TEST\C_SHARP_TEST\obj\Debug\C_SHARP_TEST.exe
+c:\users\charlie\source\repos\C_SHARP_TEST\C_SHARP_TEST\obj\Debug\C_SHARP_TEST.pdb

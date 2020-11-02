@@ -1,0 +1,7 @@
+c:\users\charlie\source\repos\C_Sharp_Question_2\C_Sharp_Question_2\bin\Debug\C_Sharp_Question_2.exe.config
+c:\users\charlie\source\repos\C_Sharp_Question_2\C_Sharp_Question_2\bin\Debug\C_Sharp_Question_2.exe
+c:\users\charlie\source\repos\C_Sharp_Question_2\C_Sharp_Question_2\bin\Debug\C_Sharp_Question_2.pdb
+c:\users\charlie\source\repos\C_Sharp_Question_2\C_Sharp_Question_2\obj\Debug\C_Sharp_Question_2.csprojAssemblyReference.cache
+c:\users\charlie\source\repos\C_Sharp_Question_2\C_Sharp_Question_2\obj\Debug\C_Sharp_Question_2.csproj.CoreCompileInputs.cache
+c:\users\charlie\source\repos\C_Sharp_Question_2\C_Sharp_Question_2\obj\Debug\C_Sharp_Question_2.exe
+c:\users\charlie\source\repos\C_Sharp_Question_2\C_Sharp_Question_2\obj\Debug\C_Sharp_Question_2.pdb

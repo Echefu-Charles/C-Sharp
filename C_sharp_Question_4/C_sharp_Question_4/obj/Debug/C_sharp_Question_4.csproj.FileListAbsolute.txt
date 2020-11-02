@@ -1,0 +1,6 @@
+c:\users\charlie\source\repos\C_sharp_Question_4\C_sharp_Question_4\bin\Debug\C_sharp_Question_4.exe.config
+c:\users\charlie\source\repos\C_sharp_Question_4\C_sharp_Question_4\bin\Debug\C_sharp_Question_4.exe
+c:\users\charlie\source\repos\C_sharp_Question_4\C_sharp_Question_4\bin\Debug\C_sharp_Question_4.pdb
+c:\users\charlie\source\repos\C_sharp_Question_4\C_sharp_Question_4\obj\Debug\C_sharp_Question_4.csproj.CoreCompileInputs.cache
+c:\users\charlie\source\repos\C_sharp_Question_4\C_sharp_Question_4\obj\Debug\C_sharp_Question_4.exe
+c:\users\charlie\source\repos\C_sharp_Question_4\C_sharp_Question_4\obj\Debug\C_sharp_Question_4.pdb
